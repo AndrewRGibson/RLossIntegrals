@@ -1,4 +1,4 @@
-Package: LossIntegrals
+Package: RLossIntegrals
 Title: Functions to calculate loss integrals (and their inverse) for standard
     distributions, used in setting safety stocks
 Version: 0.1
