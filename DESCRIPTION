@@ -1,0 +1,13 @@
+Package: LossIntegrals
+Title: Functions to calculate loss integrals (and their inverse) for standard
+    distributions, used in setting safety stocks
+Version: 0.1
+Author: Andrew Gibson<AndrewG@CrabtreeAnalytics.com>
+Maintainer: Andrew Gibson<AndrewG@CrabtreeAnalytics.com>
+Description: Functions to calculate loss integrals (and their inverse) to
+    convert between p (the likelihood of a stock out) and fill-rate (the % of
+    order volume filled from inventory).
+Depends:
+    R (>= 3.1.0)
+License: 
+LazyData: true
