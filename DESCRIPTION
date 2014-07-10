@@ -8,6 +8,6 @@ Description: Functions to calculate loss integrals (and their inverse) to
     convert between p (the likelihood of a stock out) and fill-rate (the % of
     order volume filled from inventory).
 Depends:
-    R (>= 3.1.0)
+    R (>= 3.1.0), akima
 License: 
 LazyData: true
